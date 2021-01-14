@@ -191,3 +191,27 @@ Amazon Database Diagram
   - TONS of data in a DB
   - Often hidden a complex schema
   - Goal is to only get the data you need.
+
+# 5. my SQL
+
+- my SQL, pop SQL? //popsQSl // can not connect with popsSQL
+
+- cd C:\mysql
+- cd bin
+- mysql -u root -p
+- enter password : 세린0837
+
+# 6. Creating tables
+
+schema
+always to create table is staring point
+_data type_
+
+- INT : whole number (integer)
+- DECIMAL(M, N) : exact value
+- VARCHAR(1) :string of text of length1
+- BLOB : Binary Large Object, Stores large data
+- Date : yyyy-mm-dd
+- TIMESTAMP : yyyy-mm-dd hh:mm:ss
+
+- CREATE TABLE
